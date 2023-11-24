@@ -3,6 +3,8 @@ Keywords:
 Copyright:(C) 2023 Kei Wakisaka
 ---
 
-# title
+# 題名
+個人ブログはじめた
 
-Write contents here.
+# なにこれ
+bashでコンテンツをつくる
