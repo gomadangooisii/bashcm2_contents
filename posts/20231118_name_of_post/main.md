@@ -1,5 +1,5 @@
-| Keywords | お正月 |
-| Copyright | (C) 2023 Kei Wakisaka |
+|Keywords|お正月|
+|Copyright|(C) 2023 Kei Wakisaka|
 
 # 今年もあと1ヶ月
   - 2023年も、あともう少しでおしまい。
