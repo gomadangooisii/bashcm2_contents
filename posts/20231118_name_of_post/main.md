@@ -1,5 +1,3 @@
-<meta http-equiv="content-type" charset="UTF-8">
-
 |  項目 |  内容  |
 | ---- | ---- |
 |  Keywords  |  お正月  |
