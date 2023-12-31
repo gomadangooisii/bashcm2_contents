@@ -19,4 +19,6 @@
 
 ## ドキュメント
 - お雑煮も食べたい！[お雑煮](https://www.kurashiru.com/articles/47e5f18f-f5a9-4af8-be7f-6fc3d45a8dc8)
-- うおおお
+
+## 雑記
+今年は忙しくしたいなあ
